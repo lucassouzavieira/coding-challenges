@@ -1,7 +1,7 @@
 ///
 /// Kth smallest element
 /// 
-/// See: https://www.hackerrank.com/challenges/fizzbuzz/problem
+
 use std::env;
 
 fn main(){
